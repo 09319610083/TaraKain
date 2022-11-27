@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "880594249503",
+    "project_id": "tarakain-abb23",
+    "storage_bucket": "tarakain-abb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880594249503:android:7530df1a776ec3dbbff22a",
+        "android_client_info": {
+          "package_name": "com.enriquekiniway.tarakain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880594249503-8371iae6v2svua2cajipq08r5jvvs451.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enriquekiniway.tarakain",
+            "certificate_hash": "3624c26bfd5c2d7fc1bf26fb6a5f3338f440fd46"
+          }
+        },
+        {
+          "client_id": "880594249503-sn98c4ql9b7gn7bvr940opds1h0n2fro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNK5hoXQ3T1Dro9sXBrhbqnAc4JUuBbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880594249503-sn98c4ql9b7gn7bvr940opds1h0n2fro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
